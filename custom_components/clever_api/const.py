@@ -20,3 +20,6 @@ CONF_PHASE_COUNT = "phase_count"
 
 SERVICE_ENABLE_FLEX = "enable_flex"
 SERVICE_DISABLE_FLEX = "disable_flex"
+
+# Autorisationsheader til Clever API
+AUTHORIZATION_HEADER = "Basic bW9iaWxlYXBwOmFwaWtleQ=="
