@@ -23,8 +23,8 @@ from .models import (
     EvseInfo,
     Energitillaeg,
 )
-from .const import AUTHORIZATION_HEADER, LOGGER
-from .urls import (
+from ..const import AUTHORIZATION_HEADER, LOGGER
+from ..urls import (
     SEND_AUTH_EMAIL,
     VERIFY_LINK,
     OBTAIN_USER_SECRET,
