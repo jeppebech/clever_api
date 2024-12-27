@@ -24,7 +24,7 @@ from .models import (
     Energitillaeg,
 )
 from ..const import AUTHORIZATION_HEADER, LOGGER
-from ..urls import (
+from .urls import (
     SEND_AUTH_EMAIL,
     VERIFY_LINK,
     OBTAIN_USER_SECRET,
